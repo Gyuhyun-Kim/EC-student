@@ -4,7 +4,9 @@ description: EC_HAL API
 
 # Embedded Controller HAL
 
-Written by:  Your Name
+Written by:   김영근
+
+Course:  임베디드컨트롤러
 
 
 
@@ -25,7 +27,6 @@ MCU:  				STM32F411RE, Nucleo-64
 ### Header File
 
  `#include "ecGPIO.h"`
-
 
 
 ```c++
